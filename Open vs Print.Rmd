@@ -1,6 +1,6 @@
 ---
-title: "Online Textbook"
-author: "Ayisha - TRU- T00727585"
+title: "Open Vs Print"
+author: "Natasha"
 date: "2025-04-04"
 output: html_document
 ---
@@ -672,4 +672,5 @@ print(grade_counts)
 table(grade_df$Grade, grade_df$Textbook_Type)
 
 ```
+
 
